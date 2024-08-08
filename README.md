@@ -9,7 +9,7 @@ Single Image Prediction: Includes functionality to predict the class of a single
 How to Use:
 Clone the repository:
 bash
-git clone https://github.com/frecklysledge0/cnn-image-classification.git
+git clone https://github.com/freacklysledge0/cnn-image-classification.git
 Install dependencies:
 bash
 pip install -r requirements.txt
